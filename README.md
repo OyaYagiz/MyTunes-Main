@@ -8,5 +8,5 @@ CSS contributes to visual appeal by shaping elements such as colours,
 
 fonts and spacing.
 
-![] (MyTunes.gif)
+![](MyTunes.gif)
 
